@@ -1,0 +1,21 @@
+_id: req_98544033aa614ec1be5ddb2e9c82efdb
+type: Request
+parentId: wrk_5b06b2de6ebd4a61aa94393e8d59de76
+modified: 1678890716458
+created: 1678888727443
+url: http://localhost:8080/employees
+name: Get employee
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678888727443
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_903e374512f5458e8a34a1f9516b76fd
+type: Request
+parentId: wrk_5b06b2de6ebd4a61aa94393e8d59de76
+modified: 1678890703386
+created: 1678888782915
+url: http://localhost:8080/employees/1
+name: Delete Employee
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678888782915
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

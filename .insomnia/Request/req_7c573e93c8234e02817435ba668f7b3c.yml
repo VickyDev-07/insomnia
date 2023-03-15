@@ -1,0 +1,30 @@
+_id: req_7c573e93c8234e02817435ba668f7b3c
+type: Request
+parentId: wrk_5b06b2de6ebd4a61aa94393e8d59de76
+modified: 1678890730194
+created: 1678890276665
+url: http://localhost:8080/employees/54
+name: update employee
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"firstName": "muthu",
+    		"lastName": "kumar",
+    		"email": "muthu@gmail.com"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1678890276665
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

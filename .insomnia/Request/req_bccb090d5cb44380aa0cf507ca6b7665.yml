@@ -1,0 +1,30 @@
+_id: req_bccb090d5cb44380aa0cf507ca6b7665
+type: Request
+parentId: wrk_5b06b2de6ebd4a61aa94393e8d59de76
+modified: 1678888772798
+created: 1678882866032
+url: http://localhost:8080/employees
+name: Save Employees
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"firstName":"muthu",
+    	"lastName":"kumar",
+    	"email":"guru@gmail.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1678882866032
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
